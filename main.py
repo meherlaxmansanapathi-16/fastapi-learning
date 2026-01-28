@@ -9,7 +9,7 @@ def home():
 
 users=[
     {"id":1,"name":"lucky","email":"lucky@gmail.com"},
-    {"id":2,"name":"daishu","email":"lucky@gmail.com"},
+    {"id":2,"name":"vamsi","email":"vamsi@gmail.com"},
 ]
 @app.get("/users")
 def users():
